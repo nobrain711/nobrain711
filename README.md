@@ -3,8 +3,8 @@
 **AI Engineering · Data Engineering · Infrastructure 기반의  
 Machine Learning Systems Developer**
 
-현재 **SK Networks AI Bootcamp (2026.01 – 2026.07)** 과정에서 아래읜 내용을   
-중심으로 학습과 프로젝트를 진행하고 있습니다.
+현재 **SK Networks AI Bootcamp (2026.01 – 2026.07)** 과정에서  
+다음 영역을 중심으로 학습과 프로젝트를 진행하고 있습니다.
 
 - Data Pipelines
 - Machine Learning
@@ -17,9 +17,9 @@ Machine Learning Systems Developer**
 
 # 🧑‍💻 About Me
 
-📍 Based in Sokcho, South Korea   
-🎓 Yeungnam University College  
-🎓 SK Networks AI Bootcamp
+📍 Sokcho, South Korea  (2000)   
+🎓 Yeungnam University College (2021–2024)  
+🎓 SK Networks AI Bootcamp (2026)
 
 🤖 **Interest**
 
@@ -46,6 +46,7 @@ Machine Learning Systems Developer**
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 ## ![Machine Learning](https://img.shields.io/badge/Machine-Learning-F7931E?style=for-the-badge)
 
@@ -55,11 +56,20 @@ Machine Learning Systems Developer**
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 ![cuML](https://img.shields.io/badge/cuML-RAPIDS-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+## ![Deep Learning](https://img.shields.io/badge/Deep-Learning-6C757D?style=for-the-badge) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow 1.x](https://img.shields.io/badge/TensorFlow%201.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## ![Computer Vision](https://img.shields.io/badge/Computer-Vision-FF6F00?style=for-the-badge)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv7](https://img.shields.io/badge/YOLOv7-00FFFF?style=for-the-badge)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ## ![Data Engineering](https://img.shields.io/badge/Data-Engineering-150458?style=for-the-badge)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 ## ![Infrastructure](https://img.shields.io/badge/Infrastructure-2496ED?style=for-the-badge)
 
@@ -81,3 +91,11 @@ Machine Learning Systems Developer**
 # 📫 Contact
 
 * GitHub: https://github.com/nobrain711
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobrain711&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrain711&layout=compact)
