@@ -32,6 +32,20 @@ Machine Learning Systems Developer**
 
 * **재현 가능한 AI 시스템 설계**
 * **데이터 파이프라인 기반 ML 서비스 구축**
+
+---
+
+# 🆕 최근 업데이트 (May 2026)
+
+### 최근 작업
+1. **포트폴리오 구조 개선** - README 네비게이션 및 정렬 최적화
+2. **레거시 문서 정리** - 구 위키 문서(AI-Systems, ML Overview 등) 제거
+3. **프로필 README 현대화** - 기술 스택 뱃지 및 접근성 개선
+
+### 현재 활동
+- SK Networks AI Bootcamp (2026.01 – 2026.07) 진행 중
+- AI 에이전트 및 머신러닝 프로젝트 개발
+
 ---
 
 # 🛠 Tech Stack
@@ -90,7 +104,18 @@ Machine Learning Systems Developer**
 
 # 📫 Contact
 
-* GitHub: https://github.com/nobrain711
+| 링크 | URL |
+|------|-----|
+| **GitHub** | https://github.com/nobrain711 |
+| **Email** | qa9975@ync.ac.kr |
+
+---
+
+# 📅 마지막 업데이트
+
+- **최신 커밋**: `docs: remove legacy documentation files` (1a11b02)
+- **업데이트 날짜**: 2026년 05월 31일
+- **업데이트 주기**: 월 1회 (매월 말일)
 
 ---
 
