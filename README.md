@@ -32,6 +32,15 @@ Machine Learning Systems Developer**
 
 * **재현 가능한 AI 시스템 설계**
 * **데이터 파이프라인 기반 ML 서비스 구축**
+* **프로덕션 레벨의 AI 인프라 구현**
+
+📊 **Core Competencies**
+
+* ML Systems Architecture & Design
+* Data Pipeline Orchestration
+* Model Training & Deployment
+* MLOps & Infrastructure
+* LLM/Agent Development
 
 ---
 
@@ -117,12 +126,15 @@ Machine Learning Systems Developer**
 
 ---
 
-# 📫 Contact
+# 📫 Contact & Links
 
-| 링크 | URL |
-|------|-----|
+| 플랫폼 | 링크 |
+|-------|------|
 | **GitHub** | https://github.com/nobrain711 |
 | **Email** | qa9975@ync.ac.kr |
+| **LinkedIn** | [프로필 업데이트 예정] |
+
+느슨한 질문이나 협업 제안은 언제든지 연락주세요!
 
 ---
 
