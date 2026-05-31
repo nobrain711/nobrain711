@@ -93,6 +93,13 @@ Machine Learning Systems Developer**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GPU Computing](https://img.shields.io/badge/GPU-Computing-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+## ![AI/ML & Agents](https://img.shields.io/badge/AI/ML-Agents-FF6B6B?style=for-the-badge)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Claude API](https://img.shields.io/badge/Claude-API-0A66C2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI-Agents-9945FF?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG-Systems-FF8C42?style=for-the-badge)
+
 ## ![Tools](https://img.shields.io/badge/Tools-000000?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -102,12 +109,33 @@ Machine Learning Systems Developer**
 
 ---
 
+# 🤝 오픈소스 기여
+
+### 주요 활동
+- GitHub에서 활발한 오픈소스 프로젝트 참여 중
+- 머신러닝 및 데이터 엔지니어링 관련 라이브러리 컨트리뷰션
+
+---
+
 # 📫 Contact
 
 | 링크 | URL |
 |------|-----|
 | **GitHub** | https://github.com/nobrain711 |
 | **Email** | qa9975@ync.ac.kr |
+
+---
+
+# 📆 활동 타임라인
+
+### 2026년 5월
+- ✅ 포트폴리오 구조 개선 및 README 네비게이션 최적화
+- ✅ 레거시 문서 정리 (구 위키 페이지 제거)
+- ✅ 프로필 README 현대화 (기술 스택 뱃지 개선)
+- ✅ 오픈소스 기여 섹션 추가
+
+### 2026년 4월
+- 🔧 SK Networks AI Bootcamp 프로젝트 진행
 
 ---
 
