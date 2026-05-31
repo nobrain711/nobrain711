@@ -12,6 +12,17 @@ Machine Learning Systems Developer**
 - LLM / RAG Systems
 - AI Infrastructure
 
+---
+
+## 🚀 빠른 네비게이션
+
+| 섹션 | 설명 |
+|------|------|
+| [🧑‍💻 About Me](#-about-me) | 자기소개 및 목표 |
+| [🛠 Tech Stack](#-tech-stack) | 기술 스택 |
+| [🆕 최근 업데이트](#-최근-업데이트-may-2026) | 최신 활동 |
+| [🤝 오픈소스](#-오픈소스-기여) | 오픈소스 기여 |
+| [📫 Contact](#-contact--links) | 연락처 |
 
 ---
 
