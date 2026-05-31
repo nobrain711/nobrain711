@@ -1,24 +1,24 @@
 <div align="center">
 
-# 🚀 ML Systems Engineer
+# 🚀 ML 시스템 엔지니어
 
-### Building AI that actually works in production
+### 실제 작동하는 AI를 만듭니다
 
-**Making machines learn faster, smarter, and more reliably**
-
----
-
-### ⚡ What I Build
-```
-🏗️ ML Pipelines • 🤖 AI Agents • 📊 Data Systems • ⚙️ MLOps
-```
-
-### 📍 About Me
-🎓 **SK Networks AI Bootcamp** (Jan-Jul 2026) | 🌍 Sokcho, Korea
+**더 빠르게, 더 똑똑하게, 더 안정적으로 기계를 학습시키기**
 
 ---
 
-## 💻 Stack I Work With
+### ⚡ 내가 만드는 것
+```
+🏗️ ML 파이프라인 • 🤖 AI 에이전트 • 📊 데이터 시스템 • ⚙️ MLOps
+```
+
+### 📍 소개
+🎓 **SK Networks AI Bootcamp** (2026.01 ~ 2026.07) | 🌍 속초, 한국
+
+---
+
+## 💻 사용하는 기술
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -28,21 +28,21 @@
 
 ---
 
-## 🎯 Currently Exploring
-- 🧠 LLM Applications & RAG Systems
-- 📈 Scalable Data Pipelines  
-- 🔄 Real-time ML Systems
-- 🏆 Production ML Best Practices
+## 🎯 현재 탐구 중
+- 🧠 LLM 애플리케이션 & RAG 시스템
+- 📈 확장 가능한 데이터 파이프라인  
+- 🔄 실시간 ML 시스템
+- 🏆 프로덕션 ML 베스트 프랙티스
 
 ---
 
-## 🤝 Let's Talk About
-💬 AI Systems | 📊 Data Engineering | 🔬 ML Challenges | 🚀 Production ML
+## 🤝 이야기하고 싶은 것
+💬 AI 시스템 | 📊 데이터 엔지니어링 | 🔬 ML 챌린지 | 🚀 프로덕션 ML
 
 📧 **qa9975@ync.ac.kr** | 🐙 **[@nobrain711](https://github.com/nobrain711)**
 
 ---
 
-### *"Reproducibility is everything in ML"* 🎯
+### *"머신러닝에서는 재현성이 전부다"* 🎯
 
 </div>
