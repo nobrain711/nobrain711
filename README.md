@@ -114,30 +114,30 @@
 
 ## 🏆 Featured Projects
 
-<a href="https://github.com/nobrain711/Lovv-agent">
-  <img src="https://img.shields.io/badge/Lovv--agent-🤖%20LangGraph%20Multi--Agent-FF6B6B?style=for-the-badge" alt="Lovv-agent" />
+<a href="https://github.com/nobrain711/voicechat">
+  <img src="https://img.shields.io/badge/voicechat-🎙️%20Voice%20Chat%20App-FF6B6B?style=for-the-badge" alt="voicechat" />
 </a>
-<a href="https://github.com/nobrain711/Lovv_BE">
-  <img src="https://img.shields.io/badge/Lovv__BE-☁️%20AWS%20SAM%20Backend-4ECDC4?style=for-the-badge" alt="Lovv_BE" />
+<a href="https://github.com/nobrain711/news-digest-chatbot">
+  <img src="https://img.shields.io/badge/news--digest--chatbot-📰%20News%20Digest-4ECDC4?style=for-the-badge" alt="news-digest-chatbot" />
 </a>
-<a href="https://github.com/nobrain711/claw-code">
-  <img src="https://img.shields.io/badge/claw--code-⚡%2050K%20Stars-FFD700?style=for-the-badge" alt="claw-code" />
+<a href="https://github.com/nobrain711/kaggle-utils-dataset">
+  <img src="https://img.shields.io/badge/kaggle--utils--dataset-📊%20Kaggle%20Utils-FFD700?style=for-the-badge" alt="kaggle-utils-dataset" />
 </a>
-<a href="https://github.com/nobrain711/awesome-gpt-image-2">
-  <img src="https://img.shields.io/badge/awesome--gpt--image--2-🎨%20Image%20Prompts-9B59B6?style=for-the-badge" alt="awesome-gpt-image-2" />
+<a href="https://github.com/nobrain711/zettelkasten">
+  <img src="https://img.shields.io/badge/zettelkasten-📚%20Knowledge%20Base-9B59B6?style=for-the-badge" alt="zettelkasten" />
 </a>
 
-<a href="https://github.com/nobrain711/obsidian-llm-wiki-local">
-  <img src="https://img.shields.io/badge/obsidian--llm--wiki--local-📚%20LLM%20Wiki-3498DB?style=for-the-badge" alt="obsidian-llm-wiki-local" />
+<a href="https://github.com/nobrain711/streamlit_todo_app">
+  <img src="https://img.shields.io/badge/streamlit__todo__app-✅%20Todo%20App-3498DB?style=for-the-badge" alt="streamlit_todo_app" />
 </a>
-<a href="https://github.com/nobrain711/agent-skills">
-  <img src="https://img.shields.io/badge/agent--skills-🛠️%20Agent%20Engineering-2ECC71?style=for-the-badge" alt="agent-skills" />
+<a href="https://github.com/nobrain711/Django_restAPI">
+  <img src="https://img.shields.io/badge/Django__restAPI-🔌%20REST%20API-2ECC71?style=for-the-badge" alt="Django_restAPI" />
 </a>
-<a href="https://github.com/nobrain711/understand-anything">
-  <img src="https://img.shields.io/badge/understand--anything-🧠%20Knowledge%20Graph-FF6B35?style=for-the-badge" alt="understand-anything" />
+<a href="https://github.com/nobrain711/react_movie">
+  <img src="https://img.shields.io/badge/react__movie-🎬%20Movie%20Site-FF6B35?style=for-the-badge" alt="react_movie" />
 </a>
-<a href="https://github.com/nobrain711/job-pocket">
-  <img src="https://img.shields.io/badge/job--pocket-💼%20Job%20Portal-E74C3C?style=for-the-badge" alt="job-pocket" />
+<a href="https://github.com/nobrain711/Resume">
+  <img src="https://img.shields.io/badge/Resume-👤%20CV-E74C3C?style=for-the-badge" alt="Resume" />
 </a>
 
 ----------------------------------------------------------------------
