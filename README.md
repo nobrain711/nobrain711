@@ -124,17 +124,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Joraemon-s-Secret-Gadgets/Oh_My_doc">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=Joraemon-s-Secret-Gadgets&repo=Oh_My_doc&theme=radical" width="48%" />
+  <a href="https://github.com/nobrain711/value-for-fable">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=value-for-fable&theme=radical" width="48%" />
   </a>
-  <a href="https://github.com/nobrain711/SKN-Project-1">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=SKN-Project-1&theme=radical" width="48%" />
+  <a href="https://github.com/nobrain711/understand-anything">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=understand-anything&theme=radical" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nobrain711/second-brain">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=second-brain&theme=radical" width="48%" />
+  </a>
+  <a href="https://github.com/nobrain711/agent-skills">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=agent-skills&theme=radical" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/nobrain711/job-pocket">
     <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=job-pocket&theme=radical" width="48%" />
+  </a>
+  <a href="https://github.com/nobrain711/globalai">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=globalai&theme=radical" width="48%" />
   </a>
 </p>
 
