@@ -89,10 +89,16 @@
   <br/>
   <p align="center">
     <a href="https://github.com/nobrain711">
-      <img alt="nobrain711's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nobrain711&show_icons=true&count_private=true&theme=radian" />
+      <img alt="nobrain711's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nobrain711&theme=radical" />
     </a>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nobrain711&show_icons=true&locale=en&layout=compact&theme=radian" alt="nobrain711" />
+  </p>
+  <p align="center">
+    <a href="https://github.com/nobrain711">
+      <img alt="nobrain711's Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nobrain711&theme=radical" />
+    </a>
+    <a href="https://github.com/nobrain711">
+      <img alt="nobrain711's Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nobrain711&theme=radical" />
+    </a>
   </p>
 </details>
 
