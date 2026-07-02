@@ -114,29 +114,23 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/nobrain711/Lovv-agent">
-    <img src="https://img.shields.io/badge/Lovv--agent-AI%20Agent-FF6B6B?style=for-the-badge&logo=github" alt="Lovv-agent" />
-  </a>
-  <a href="https://github.com/nobrain711/Lovv_BE">
-    <img src="https://img.shields.io/badge/Lovv--BE-Backend-4ECDC4?style=for-the-badge&logo=github" alt="Lovv_BE" />
-  </a>
-</div>
+<a href="https://github.com/nobrain711/Lovv-agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=Lovv-agent&theme=radical" />
+</a>
+<a href="https://github.com/nobrain711/Lovv_BE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=Lovv_BE&theme=radical" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/Joraemon-s-Secret-Gadgets/Oh_My_doc">
-    <img src="https://img.shields.io/badge/Oh--My--doc-Collaboration-95E1D3?style=for-the-badge&logo=github" alt="Oh_My_doc" />
-  </a>
-  <a href="https://github.com/nobrain711/SKN-Project-1">
-    <img src="https://img.shields.io/badge/SKN--Project--1-Web%20App-6C5CE7?style=for-the-badge&logo=github" alt="SKN-Project-1" />
-  </a>
-</div>
+<a href="https://github.com/Joraemon-s-Secret-Gadgets/Oh_My_doc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joraemon-s-Secret-Gadgets&repo=Oh_My_doc&theme=radical" />
+</a>
+<a href="https://github.com/nobrain711/SKN-Project-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=SKN-Project-1&theme=radical" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/nobrain711/job-pocket">
-    <img src="https://img.shields.io/badge/Job--Pocket-Job%20Portal-A29BFE?style=for-the-badge&logo=github" alt="job-pocket" />
-  </a>
-</div>
+<a href="https://github.com/nobrain711/job-pocket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=job-pocket&theme=radical" />
+</a>
 
 ----------------------------------------------------------------------
 Credit: Inspired by [aastha12](https://github.com/aastha12)
