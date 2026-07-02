@@ -115,12 +115,21 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-
-|  |  |  |  |
-|:---:|:---:|:---:|:---:|
-| [**Lovv-agent**](https://github.com/nobrain711/Lovv-agent)<br/>🤖 LangGraph Multi-Agent | [**Lovv_BE**](https://github.com/nobrain711/Lovv_BE)<br/>☁️ AWS SAM Backend | [**claw-code**](https://github.com/nobrain711/claw-code)<br/>⚡ 50K Stars Tool | [**awesome-gpt-image-2**](https://github.com/nobrain711/awesome-gpt-image-2)<br/>🎨 Image Prompts |
-| [**obsidian-llm-wiki-local**](https://github.com/nobrain711/obsidian-llm-wiki-local)<br/>📚 LLM Wiki + Ollama | [**agent-skills**](https://github.com/nobrain711/agent-skills)<br/>🛠️ Agent Engineering | [**chainlit_playground**](https://github.com/nobrain711/chainlit_playground)<br/>💬 Streamlit ChatUI | [**job-pocket**](https://github.com/nobrain711/job-pocket)<br/>💼 Job Portal |
-
+  <table>
+    <tr>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/Lovv-agent"><img src="https://img.shields.io/badge/Lovv--agent-🤖%20LangGraph%20Multi--Agent-FF6B6B?style=flat-square&logoColor=white" width="100%" /></a></td>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/Lovv_BE"><img src="https://img.shields.io/badge/Lovv__BE-☁️%20AWS%20SAM%20Backend-4ECDC4?style=flat-square&logoColor=white" width="100%" /></a></td>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/claw-code"><img src="https://img.shields.io/badge/claw--code-⚡%2050K%20Stars-FFD700?style=flat-square&logoColor=white" width="100%" /></a></td>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/awesome-gpt-image-2"><img src="https://img.shields.io/badge/awesome--gpt--image--2-🎨%20Image%20Prompts-9B59B6?style=flat-square&logoColor=white" width="100%" /></a></td>
+    </tr>
+    <tr height="10"></tr>
+    <tr>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/obsidian-llm-wiki-local"><img src="https://img.shields.io/badge/obsidian--llm--wiki--local-📚%20LLM%20Wiki-3498DB?style=flat-square&logoColor=white" width="100%" /></a></td>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/agent-skills"><img src="https://img.shields.io/badge/agent--skills-🛠️%20Agent%20Engineering-2ECC71?style=flat-square&logoColor=white" width="100%" /></a></td>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/chainlit_playground"><img src="https://img.shields.io/badge/chainlit__playground-💬%20Streamlit%20ChatUI-F39C12?style=flat-square&logoColor=white" width="100%" /></a></td>
+      <td width="25%" align="center"><a href="https://github.com/nobrain711/job-pocket"><img src="https://img.shields.io/badge/job--pocket-💼%20Job%20Portal-E74C3C?style=flat-square&logoColor=white" width="100%" /></a></td>
+    </tr>
+  </table>
 </div>
 
 ----------------------------------------------------------------------
