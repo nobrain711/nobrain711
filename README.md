@@ -42,8 +42,8 @@
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   </a>
 </div>
 
@@ -58,8 +58,8 @@
   <a href="https://www.langchain.com/" target="_blank">
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
   </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logoColor=white" />
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-AI-FF6B35?style=for-the-badge&logoColor=white">
   </a>
 </div>
 
@@ -70,13 +70,6 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
-</div>
-
-### 📊 Data & Visualization
-<div align="center">
-  <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   </a>
 </div>
 
