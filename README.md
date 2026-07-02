@@ -136,8 +136,8 @@
 <a href="https://github.com/nobrain711/react_movie">
   <img src="https://img.shields.io/badge/react__movie-🎬%20Movie%20Site-FF6B35?style=for-the-badge" alt="react_movie" />
 </a>
-<a href="https://github.com/nobrain711/Resume">
-  <img src="https://img.shields.io/badge/Resume-👤%20CV-E74C3C?style=for-the-badge" alt="Resume" />
+<a href="https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web">
+  <img src="https://img.shields.io/badge/Lovv__web-🌐%20Final%20Project-E74C3C?style=for-the-badge" alt="Lovv_web" />
 </a>
 
 ----------------------------------------------------------------------
