@@ -114,23 +114,13 @@
 
 ## 🏆 Featured Projects
 
-<a href="https://github.com/nobrain711/Lovv-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=Lovv-agent&theme=radical" />
-</a>
-<a href="https://github.com/nobrain711/Lovv_BE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=Lovv_BE&theme=radical" />
-</a>
-
-<a href="https://github.com/Joraemon-s-Secret-Gadgets/Oh_My_doc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joraemon-s-Secret-Gadgets&repo=Oh_My_doc&theme=radical" />
-</a>
-<a href="https://github.com/nobrain711/SKN-Project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=SKN-Project-1&theme=radical" />
-</a>
-
-<a href="https://github.com/nobrain711/job-pocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobrain711&repo=job-pocket&theme=radical" />
-</a>
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Lovv-agent](https://github.com/nobrain711/Lovv-agent) | AI-powered agent system for LangGraph & AWS integration | ![GitHub stars](https://img.shields.io/github/stars/nobrain711/Lovv-agent?style=social) |
+| [Lovv_BE](https://github.com/nobrain711/Lovv_BE) | Backend services for Lovv platform | ![GitHub stars](https://img.shields.io/github/stars/nobrain711/Lovv_BE?style=social) |
+| [Oh_My_doc](https://github.com/Joraemon-s-Secret-Gadgets/Oh_My_doc) | Collaborative documentation system | ![GitHub stars](https://img.shields.io/github/stars/Joraemon-s-Secret-Gadgets/Oh_My_doc?style=social) |
+| [SKN-Project-1](https://github.com/nobrain711/SKN-Project-1) | Full-stack web application project | ![GitHub stars](https://img.shields.io/github/stars/nobrain711/SKN-Project-1?style=social) |
+| [job-pocket](https://github.com/nobrain711/job-pocket) | Job search and management portal | ![GitHub stars](https://img.shields.io/github/stars/nobrain711/job-pocket?style=social) |
 
 ----------------------------------------------------------------------
 Credit: Inspired by [aastha12](https://github.com/aastha12)
