@@ -114,23 +114,31 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/Lovv-agent"><img src="https://img.shields.io/badge/Lovv--agent-🤖%20LangGraph%20Multi--Agent-FF6B6B?style=flat-square&logoColor=white" width="100%" /></a></td>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/Lovv_BE"><img src="https://img.shields.io/badge/Lovv__BE-☁️%20AWS%20SAM%20Backend-4ECDC4?style=flat-square&logoColor=white" width="100%" /></a></td>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/claw-code"><img src="https://img.shields.io/badge/claw--code-⚡%2050K%20Stars-FFD700?style=flat-square&logoColor=white" width="100%" /></a></td>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/awesome-gpt-image-2"><img src="https://img.shields.io/badge/awesome--gpt--image--2-🎨%20Image%20Prompts-9B59B6?style=flat-square&logoColor=white" width="100%" /></a></td>
-    </tr>
-    <tr height="10"></tr>
-    <tr>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/obsidian-llm-wiki-local"><img src="https://img.shields.io/badge/obsidian--llm--wiki--local-📚%20LLM%20Wiki-3498DB?style=flat-square&logoColor=white" width="100%" /></a></td>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/agent-skills"><img src="https://img.shields.io/badge/agent--skills-🛠️%20Agent%20Engineering-2ECC71?style=flat-square&logoColor=white" width="100%" /></a></td>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/chainlit_playground"><img src="https://img.shields.io/badge/chainlit__playground-💬%20Streamlit%20ChatUI-F39C12?style=flat-square&logoColor=white" width="100%" /></a></td>
-      <td width="25%" align="center"><a href="https://github.com/nobrain711/job-pocket"><img src="https://img.shields.io/badge/job--pocket-💼%20Job%20Portal-E74C3C?style=flat-square&logoColor=white" width="100%" /></a></td>
-    </tr>
-  </table>
-</div>
+<a href="https://github.com/nobrain711/Lovv-agent">
+  <img src="https://img.shields.io/badge/Lovv--agent-🤖%20LangGraph%20Multi--Agent-FF6B6B?style=for-the-badge" alt="Lovv-agent" />
+</a>
+<a href="https://github.com/nobrain711/Lovv_BE">
+  <img src="https://img.shields.io/badge/Lovv__BE-☁️%20AWS%20SAM%20Backend-4ECDC4?style=for-the-badge" alt="Lovv_BE" />
+</a>
+<a href="https://github.com/nobrain711/claw-code">
+  <img src="https://img.shields.io/badge/claw--code-⚡%2050K%20Stars-FFD700?style=for-the-badge" alt="claw-code" />
+</a>
+<a href="https://github.com/nobrain711/awesome-gpt-image-2">
+  <img src="https://img.shields.io/badge/awesome--gpt--image--2-🎨%20Image%20Prompts-9B59B6?style=for-the-badge" alt="awesome-gpt-image-2" />
+</a>
+
+<a href="https://github.com/nobrain711/obsidian-llm-wiki-local">
+  <img src="https://img.shields.io/badge/obsidian--llm--wiki--local-📚%20LLM%20Wiki-3498DB?style=for-the-badge" alt="obsidian-llm-wiki-local" />
+</a>
+<a href="https://github.com/nobrain711/agent-skills">
+  <img src="https://img.shields.io/badge/agent--skills-🛠️%20Agent%20Engineering-2ECC71?style=for-the-badge" alt="agent-skills" />
+</a>
+<a href="https://github.com/nobrain711/understand-anything">
+  <img src="https://img.shields.io/badge/understand--anything-🧠%20Knowledge%20Graph-FF6B35?style=for-the-badge" alt="understand-anything" />
+</a>
+<a href="https://github.com/nobrain711/job-pocket">
+  <img src="https://img.shields.io/badge/job--pocket-💼%20Job%20Portal-E74C3C?style=for-the-badge" alt="job-pocket" />
+</a>
 
 ----------------------------------------------------------------------
 Credit: Inspired by [aastha12](https://github.com/aastha12)
