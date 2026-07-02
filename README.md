@@ -124,17 +124,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nobrain711/value-for-fable">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=value-for-fable&theme=radical" width="48%" />
+  <a href="https://github.com/nobrain711/claw-code">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=claw-code&theme=radical" width="48%" />
   </a>
-  <a href="https://github.com/nobrain711/understand-anything">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=understand-anything&theme=radical" width="48%" />
+  <a href="https://github.com/nobrain711/awesome-gpt-image-2">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=awesome-gpt-image-2&theme=radical" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nobrain711/second-brain">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=second-brain&theme=radical" width="48%" />
+  <a href="https://github.com/nobrain711/obsidian-llm-wiki-local">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=obsidian-llm-wiki-local&theme=radical" width="48%" />
   </a>
   <a href="https://github.com/nobrain711/agent-skills">
     <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=agent-skills&theme=radical" width="48%" />
@@ -142,11 +142,11 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/nobrain711/chainlit_playground">
+    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=chainlit_playground&theme=radical" width="48%" />
+  </a>
   <a href="https://github.com/nobrain711/job-pocket">
     <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=job-pocket&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/nobrain711/globalai">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=globalai&theme=radical" width="48%" />
   </a>
 </p>
 
