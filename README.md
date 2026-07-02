@@ -114,41 +114,14 @@
 
 ## 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/nobrain711/Lovv-agent">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=Lovv-agent&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/nobrain711/Lovv_BE">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=Lovv_BE&theme=radical" width="48%" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/nobrain711/claw-code">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=claw-code&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/nobrain711/awesome-gpt-image-2">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=awesome-gpt-image-2&theme=radical" width="48%" />
-  </a>
-</p>
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| [**Lovv-agent**](https://github.com/nobrain711/Lovv-agent)<br/>🤖 LangGraph Multi-Agent | [**Lovv_BE**](https://github.com/nobrain711/Lovv_BE)<br/>☁️ AWS SAM Backend | [**claw-code**](https://github.com/nobrain711/claw-code)<br/>⚡ 50K Stars Tool | [**awesome-gpt-image-2**](https://github.com/nobrain711/awesome-gpt-image-2)<br/>🎨 Image Prompts |
+| [**obsidian-llm-wiki-local**](https://github.com/nobrain711/obsidian-llm-wiki-local)<br/>📚 LLM Wiki + Ollama | [**agent-skills**](https://github.com/nobrain711/agent-skills)<br/>🛠️ Agent Engineering | [**chainlit_playground**](https://github.com/nobrain711/chainlit_playground)<br/>💬 Streamlit ChatUI | [**job-pocket**](https://github.com/nobrain711/job-pocket)<br/>💼 Job Portal |
 
-<p align="center">
-  <a href="https://github.com/nobrain711/obsidian-llm-wiki-local">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=obsidian-llm-wiki-local&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/nobrain711/agent-skills">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=agent-skills&theme=radical" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nobrain711/chainlit_playground">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=chainlit_playground&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/nobrain711/job-pocket">
-    <img src="https://github-readme-stats-sigma.vercel.app/api/pin/?username=nobrain711&repo=job-pocket&theme=radical" width="48%" />
-  </a>
-</p>
+</div>
 
 ----------------------------------------------------------------------
 Credit: Inspired by [aastha12](https://github.com/aastha12)
